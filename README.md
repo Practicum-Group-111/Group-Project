@@ -14,7 +14,7 @@ H. Hu, M. Liao, C. Zhang, & Y. Jing (2020). Text classification based recurrent 
 
 [Link](https://ieeexplore.ieee.org/document/9141747) to the paper.
 
-## Abstract
+## Abstract of Original Paper
 
 Recurrent neural networks (RNNs) have shown outstanding performance for natural language processing tasks, influenced by the repeated multiplication of the recurrent weight matrices, the problem of gradient vanishing and explosion problem will be encountered when training RNN. Independently recurrent neural network (IndRNN) makes neurons independent and constrains recursive weights to effectively solve gradient problems. We combine IndRNN with long short-term memory (LSTM) and attention model, and test it for text classification, the results show that our models can effectively adapt to text classification task.
 
