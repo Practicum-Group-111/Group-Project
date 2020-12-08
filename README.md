@@ -1,5 +1,5 @@
-# Group-Project
-Repo for the Group Projected To Be Submitted for the Practicum-1 course.
+# Group Project
+Repo for the Group Projected To Be Submitted for the Practicum-1(CSL306) course.
 
 Group Number: 111
 
